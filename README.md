@@ -1,14 +1,6 @@
 # lavalink-host for music bot
 
-## Linux
-- download curl
-```cmd
-sudo apt install -y curl
-```
-
-**Note**: _Java v11 or newer is required to run the Lavalink.jar. Java v13 is recommended._ If you are using **sdkman** then _its a manager, not Java, you have to install sdkman and use sdkman to install Java_
-
-**Warning**: Java v14 has issues with Lavalink.
+## Ubuntu Installation
 
 - download or gitclone 
 ```cmd
