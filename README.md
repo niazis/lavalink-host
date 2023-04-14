@@ -14,7 +14,7 @@ git clone https://github.com/brblacky/lavalink-server.git
 To run your script : `./start.sh`
 Another option is as follows to execute shell script: `sh start.sh` OR `bash start.sh` Or `sudo bash start.sh`
 
-**pm2**
+## Run it 24/7 (pm2 method)
 
 - install node.js 
 ```cmd
