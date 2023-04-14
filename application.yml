@@ -1,9 +1,9 @@
 server: # REST and WS server
-  port: 443
+  port: 6969
   address: 0.0.0.0
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: "lavahost"
     sources:
       youtube: true
       bandcamp: true
