@@ -6,7 +6,7 @@
 ```cmd
 git clone https://github.com/brblacky/lavalink-server.git
 ```
-- cd `lavalink-server`
+- cd `lavalink-host`
 
 - Run lavalink and install java
 `chmod +x start.sh`
