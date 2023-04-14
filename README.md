@@ -1,4 +1,4 @@
-# lavalink-host
+# lavalink-host for music bot
 
 ## Linux
 - download curl
